@@ -43,6 +43,8 @@ serial to an ESP32 that drives the servos.
 
 ![Full Rig Image](FullRig.jpeg)
 
+![Power Supply Schematic](TracjerPowerSupplySchematic)
+
 ![PCB 3D view](3DPCBPicture.png)
 
 ![PCB Layer view](PCBLayerImage.png)
