@@ -20,6 +20,8 @@ serial to an ESP32 that drives the servos.
   against latency on a recorded test video. A custom benchmark script 
   was written to sweep through all combinations of parameters and track 
   accuracy and latency metrics. The top combinations were then selected and reviewed.
+  The parameters that yeilded the highest accuracy with a latency still below the time
+  allowed at 30 fps.
 - PID gains were tuned by hand.
 
 ## Hardware & Power Supply
